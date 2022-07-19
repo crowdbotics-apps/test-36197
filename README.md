@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-user-profile](modules/user-profile)
 - [react-native-login](modules/login)
 - [screen-barcode-scanner](screens/barcode-scanner)
+- [screen-budgeting-forecasting](screens/budgeting-forecasting)
 
 # Getting started: Frontend
 
